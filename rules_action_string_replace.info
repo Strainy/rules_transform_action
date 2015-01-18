@@ -1,0 +1,5 @@
+name = Rules Tranform Action
+description = Provides an action for regular expression based string replacements.
+package = Rules
+core = 7.x
+dependencies[] = rules
